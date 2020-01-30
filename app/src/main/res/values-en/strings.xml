@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppBMI</string>
+    <string name="weight_label">Enter your weight:</string>
+    <string name="weight_placeholder">Weight:</string>
+    <string name="height_label">Enter your height:</string>
+    <string name="height_placeholder">Height:</string>
+
+    <string name="meter">Metre</string>
+    <string name="centimeter">Centimetre</string>
+
+    <string name="comment">Category</string>
+
+    <string name="calculate">Calculate BMI</string>
+    <string name="reset">Reset</string>
+
+    <string name="result_label">Result:</string>
+    <string name="result_default">Click "Calculate BMI" to get the result.</string>
+
+    <string name="notice_positiveHeight">Height has to be positive</string>
+    <string name="notice_positiveWeight">Weight has to be positive</string>
+    <string name="notice_emptyFields">Specify the fields</string>
+
+    <string name="bmi_message">Your BMI is %1$s.</string>
+
+    <string name="bmi_category0">severely underweight</string>
+    <string name="bmi_category1">underweight</string>
+    <string name="bmi_category2">normal</string>
+    <string name="bmi_category3">overweight</string>
+    <string name="bmi_category4">moderately obese</string>
+    <string name="bmi_category5">severely obese</string>
+    <string name="bmi_category6">morbidly obese</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AppIMC</string>
+    <string name="weight_label">Déterminez votre poids :</string>
+    <string name="weight_placeholder">Poids :</string>
+    <string name="height_label">Déterminez votre taille :</string>
+    <string name="height_placeholder">Taille :</string>
+
+    <string name="meter">Mètre</string>
+    <string name="centimeter">Centimètre</string>
+
+    <string name="comment">Appréciation</string>
+
+    <string name="calculate">Calculer l\'IMC</string>
+    <string name="reset">Reset</string>
+
+    <string name="result_label">Résultat:</string>
+    <string name="result_default">Vous devez cliquer sur le bouton « Calculer l\'IMC » pour obtenir un résultat.</string>
+
+    <string name="notice_positiveHeight">La taille doit être positive</string>
+    <string name="notice_positiveWeight">La poids doit être positif</string>
+    <string name="notice_emptyFields">Remplissez les champs</string>
+
+    <string name="bmi_message">Votre IMC est %1$s.</string>
+
+    <string name="bmi_category0">famine</string>
+    <string name="bmi_category1">maigreur</string>
+    <string name="bmi_category2">corpulence normale</string>
+    <string name="bmi_category3">surpoids</string>
+    <string name="bmi_category4">obésité modérée</string>
+    <string name="bmi_category5">obésité sévère</string>
+    <string name="bmi_category6">obésité morbide ou massive</string>
+</resources>
